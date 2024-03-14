@@ -74,7 +74,7 @@
     </build>
 
     <properties>
-        <spring.version>5.0.9.RELEASE</spring.version>
+        <spring.version>5.2.22.RELEASE</spring.version>
         <h2.version>1.4.199</h2.version>
         <source.version>1.8</source.version>
         <target.version>1.8</target.version>
