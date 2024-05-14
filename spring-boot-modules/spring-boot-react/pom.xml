@@ -128,7 +128,7 @@
         <node.version>v14.18.0</node.version>
         <yarn.version>v1.12.1</yarn.version>
         <spring-boot.version>2.4.4</spring-boot.version>
-        <h2.version>1.4.200</h2.version>
+        <h2.version>2.2.220</h2.version>
         <javafaker.version>1.0.2</javafaker.version>
     </properties>
 
