@@ -79,7 +79,7 @@
 
     <properties>
         <spring.core.version>5.2.8.RELEASE</spring.core.version>
-        <jetty.embeded.version>9.4.31.v20200723</jetty.embeded.version>
+        <jetty.embeded.version>9.4.51.v20230217</jetty.embeded.version>
         <tomcat.embeded.version>10.0.0-M7</tomcat.embeded.version>
         <assertj.version>3.11.1</assertj.version>
         <seancfoley.ipaddress.version>5.3.3</seancfoley.ipaddress.version>
