@@ -50,7 +50,7 @@
 
     <properties>
         <maven-surefire-plugin.version>2.22.2</maven-surefire-plugin.version>
-        <guava.version>29.0-jre</guava.version>
+        <guava.version>32.0.0-jre</guava.version>
     </properties>
 
 </project>
