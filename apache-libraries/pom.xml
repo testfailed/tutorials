@@ -200,7 +200,7 @@
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <avro.version>1.8.2</avro.version>
+        <avro.version>1.11.3</avro.version>
         <beam.version>2.19.0</beam.version>
         <assertj.version>3.9.0</assertj.version>
         <bval.version>1.1.2</bval.version>
@@ -212,11 +212,11 @@
         <meecrowave-maven-plugin.version>1.2.1</meecrowave-maven-plugin.version>
         <opennlp.opennlp-tools.version>1.8.4</opennlp.opennlp-tools.version>
         <pulsar-client.version>2.1.1-incubating</pulsar-client.version>
-        <zookeeper.version>3.4.11</zookeeper.version>
+        <zookeeper.version>3.8.4</zookeeper.version>
         <curator.version>4.0.1</curator.version>
         <avaitility.version>1.7.0</avaitility.version>
-        <geode.core>1.6.0</geode.core>
-        <solr.solr-solrj.version>6.4.0</solr.solr-solrj.version>
+        <geode.core>1.15.1</geode.core>
+        <solr.solr-solrj.version>8.11.3</solr.solr-solrj.version>
     </properties>
 
 </project>
